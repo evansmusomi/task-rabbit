@@ -11,6 +11,7 @@ Each feature manipulates or displays information related to tasks.
 * _Delete Task_ : `User can delete a task`
 * _View Tasks_ : `User can view a list of created tasks`
 * _View Task_ : `User can view a task's details`
+* _Filter Tasks_ : `User can filter tasks by category`
 
 ## Technology Stack
 
