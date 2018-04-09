@@ -1,24 +1,26 @@
-# README
+# Task Rabbit App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Task Rabbit app enables people to post tasks they want done
 
-Things you may want to cover:
+## Task Related Features
 
-* Ruby version
+Each feature manipulates or displays information related to tasks.
 
-* System dependencies
+* _Create Task_ : `User can create a task`
+* _Update Task_ : `User can edit and update a task`
+* _Delete Task_ : `User can delete a task`
+* _View Tasks_ : `User can view a list of created tasks`
+* _View Task_ : `User can view a task's details`
 
-* Configuration
+## Technology Stack
 
-* Database creation
+* Ruby on Rails 5.1.6
+* Ruby 2.5.1
 
-* Database initialization
+## Demo
 
-* How to run the test suite
+_Coming Soon_ 😉
 
-* Services (job queues, cache servers, search engines, etc.)
+## Credit(s)
 
-* Deployment instructions
-
-* ...
+[Udemy Course by Yonathan Ayenew](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/)
